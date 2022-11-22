@@ -2,7 +2,7 @@
 "companyName": "DefaultCompany",
 "productName": "OldCh2RippedTwo",
 "productVersion": "1.0",
-"dataUrl": "html.data.unityweb",
+"dataUrl": "https://media.githubusercontent.com/media/Zero0xx/Bendy-OC2-Web/main/Build/html.data.unityweb?token=A35LGR2TGTR5QIFIXD2THDTDPVJVM",
 "wasmCodeUrl": "html.wasm.code.unityweb",
 "wasmFrameworkUrl": "html.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
